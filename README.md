@@ -67,8 +67,6 @@ The installer fetches two small Python packages plus a self-contained ffmpeg bui
 4. Optional: tick **Subtitles** and pick a track. Tick **Fix audio** if a file plays without sound.
 5. **Play.**
 
-Shortest path: drop a video on the window and press Play. Everything else is optional.
-
 You can also use the CLI directly:
 
 ```sh
